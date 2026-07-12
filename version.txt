@@ -1,0 +1,3 @@
+1.4.6
+https://raw.githubusercontent.com/Lua39683512/Lua/main/%E5%BC%A0%E8%B1%AA%E5%85%A8%E9%98%B2v1.4.6(%E4%BD%BF%E7%94%A8%E7%89%88).lua
+增加云更新
