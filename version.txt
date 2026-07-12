@@ -1,3 +1,3 @@
 1.4.6
-https://raw.githubusercontent.com/Lua39683512/Lua/main/张豪全防.lua
+https://raw.githubusercontent.com/Lua39683512/Lua/main/张豪全防v1.4.5.lua
 增加云更新
